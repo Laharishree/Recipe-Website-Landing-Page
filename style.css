@@ -1,0 +1,63 @@
+.navigation{
+    background-color:#64c768;;
+    
+    position: fixed;
+    overflow: hidden;
+ 
+  
+  top: 0; 
+  width: 100%;
+    
+}
+
+.header img{
+    height:70px;
+    width:70px;
+    border-radius: 50%;
+}
+
+
+.slidingimg img{
+    width: 100%;
+    height:400px;
+    
+}
+.just{
+ text-align: justify;
+}
+.checked {
+    color: rgb(228, 228, 11);
+  }
+.jumbo img{
+    width: 100%;
+    height: 350px;;
+    padding: 5px;
+    
+}
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color:black
+  }
+  .con img{
+height: 500px;
+width:100%
+  }
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  
+  p {
+    text-indent: 50px;
+    text-align: justify;
+    
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
